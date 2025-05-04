@@ -1,0 +1,4 @@
+gTTS
+pydub
+pyttsx3
+openai-whisper
