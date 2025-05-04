@@ -1,4 +1,5 @@
 #------Speak with gTTS without saving file permanently------
+# This code uses gTTS to convert text to speech and plays it using pydub.
 
 from gtts import gTTS
 from io import BytesIO
